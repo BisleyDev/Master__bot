@@ -1,0 +1,109 @@
+
+	___________________________________ 
+
+	Test time: Wed Nov 25 2020 15:15:32 GMT+0200 (Eastern European Standard Time) 
+
+	Test parameters initData: {"firstCoin":"ETC","secondCoin":"BTC","intervalCandles":"5m","quantityCandles":500,"interestRate":0.33,"minLimitSignalMACD":0.000002,"fastPeriodMACD":26,"slowPeriodMACD":52,"testDayHistoryCandles":30,"testValueFirstCoinOnWallet":16,"testValueSecondCoinOnWallet":0.0068,"pair":"ETCBTC"} 
+
+	TotalResults coins: ETC 8.43688 
+
+	TotalResults coins: BTC 0.01151 
+
+	Interest income: 21.94% 
+
+	___________________________________ 
+
+
+	
+	___________________________________ 
+
+	Test time: Wed Nov 25 2020 15:21:27 GMT+0200 (Eastern European Standard Time) 
+
+	Test parameters initData: {"firstCoin":"BNB","secondCoin":"ETH","intervalCandles":"5m","quantityCandles":500,"interestRate":0.33,"minLimitSignalMACD":0.0003,"fastPeriodMACD":26,"slowPeriodMACD":52,"testDayHistoryCandles":30,"testValueFirstCoinOnWallet":1.5,"testValueSecondCoinOnWallet":0.1,"pair":"BNBETH"} 
+
+	TotalResults coins: BNB 0.46044 
+
+	TotalResults coins: ETH 0.14041 
+
+	Interest income: -28.89% 
+
+	___________________________________ 
+
+	
+	___________________________________ 
+
+	Test time: Wed Nov 25 2020 15:22:50 GMT+0200 (Eastern European Standard Time) 
+
+	Test parameters initData: {"firstCoin":"BNB","secondCoin":"ETH","intervalCandles":"5m","quantityCandles":500,"interestRate":0.33,"minLimitSignalMACD":0.0005,"fastPeriodMACD":26,"slowPeriodMACD":52,"testDayHistoryCandles":30,"testValueFirstCoinOnWallet":1.5,"testValueSecondCoinOnWallet":0.1,"pair":"BNBETH"} 
+
+	TotalResults coins: BNB 0.46044 
+
+	TotalResults coins: ETH 0.14757 
+
+	Interest income: -21.74% 
+
+	___________________________________ 
+
+
+
+	
+	___________________________________ 
+
+	Test time: Wed Nov 25 2020 15:27:13 GMT+0200 (Eastern European Standard Time) 
+
+	Test parameters initData: {"firstCoin":"BNB","secondCoin":"ETH","intervalCandles":"5m","quantityCandles":500,"interestRate":0.2,"minLimitSignalMACD":0.0003,"fastPeriodMACD":26,"slowPeriodMACD":52,"testDayHistoryCandles":60,"testValueFirstCoinOnWallet":1.5,"testValueSecondCoinOnWallet":0.1,"pair":"BNBETH"} 
+
+	TotalResults coins: BNB 0.76936 
+
+	TotalResults coins: ETH 0.12486 
+
+	Interest income: -23.85% 
+
+	___________________________________ 
+
+	
+	___________________________________ 
+
+	Test time: Wed Nov 25 2020 15:32:42 GMT+0200 (Eastern European Standard Time) 
+
+	Test parameters initData: {"firstCoin":"BNB","secondCoin":"ETH","intervalCandles":"5m","quantityCandles":500,"interestRate":0.2,"minLimitSignalMACD":0.0005,"fastPeriodMACD":26,"slowPeriodMACD":52,"testDayHistoryCandles":60,"testValueFirstCoinOnWallet":1.5,"testValueSecondCoinOnWallet":0.1,"pair":"BNBETH"} 
+
+	TotalResults coins: BNB 0.87196 
+
+	TotalResults coins: ETH 0.13957 
+
+	Interest income: -2.30% 
+
+	___________________________________ 
+
+	
+	___________________________________ 
+
+	Test time: Wed Nov 25 2020 15:36:16 GMT+0200 (Eastern European Standard Time) 
+
+	Test parameters initData: {"firstCoin":"ETC","secondCoin":"BTC","intervalCandles":"5m","quantityCandles":500,"interestRate":0.2,"minLimitSignalMACD":0.000002,"fastPeriodMACD":26,"slowPeriodMACD":52,"testDayHistoryCandles":60,"testValueFirstCoinOnWallet":16.5,"testValueSecondCoinOnWallet":0.0068,"pair":"ETCBTC"} 
+
+	TotalResults coins: ETC 12.36101 
+
+	TotalResults coins: BTC 0.00971 
+
+	Interest income: 17.76% 
+
+	___________________________________ 
+
+	
+	___________________________________ 
+
+	Test time: Wed Nov 25 2020 15:38:36 GMT+0200 (Eastern European Standard Time) 
+
+	Test parameters initData: {"firstCoin":"ETC","secondCoin":"BTC","intervalCandles":"5m","quantityCandles":500,"interestRate":0.2,"minLimitSignalMACD":0.000002,"fastPeriodMACD":26,"slowPeriodMACD":52,"testDayHistoryCandles":30,"testValueFirstCoinOnWallet":16.5,"testValueSecondCoinOnWallet":0.0068,"pair":"ETCBTC"} 
+
+	TotalResults coins: ETC 11.81463 
+
+	TotalResults coins: BTC 0.00984 
+
+	Interest income: 16.32% 
+
+	___________________________________ 
+
+	
